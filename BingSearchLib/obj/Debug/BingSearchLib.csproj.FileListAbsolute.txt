@@ -1,0 +1,14 @@
+C:\development\ProjectOxfordDemos\BingImageSearch\BingSearchLib\obj\Debug\BingSearchLib.csprojResolveAssemblyReference.cache
+C:\development\ProjectOxfordDemos\BingImageSearch\BingSearchLib\bin\Debug\BingSearchLib.dll
+C:\development\ProjectOxfordDemos\BingImageSearch\BingSearchLib\bin\Debug\BingSearchLib.pdb
+C:\development\ProjectOxfordDemos\BingImageSearch\BingSearchLib\obj\Debug\BingSearchLib.dll
+C:\development\ProjectOxfordDemos\BingImageSearch\BingSearchLib\obj\Debug\BingSearchLib.pdb
+C:\development\ProjectOxfordDemos\BingImageSearch\BingSearchLib\bin\Debug\Newtonsoft.Json.dll
+C:\development\ProjectOxfordDemos\BingImageSearch\BingSearchLib\bin\Debug\Newtonsoft.Json.xml
+C:\development\DashPorter\BingImageSearch\BingSearchLib\bin\Debug\BingSearchLib.dll
+C:\development\DashPorter\BingImageSearch\BingSearchLib\bin\Debug\BingSearchLib.pdb
+C:\development\DashPorter\BingImageSearch\BingSearchLib\bin\Debug\Newtonsoft.Json.dll
+C:\development\DashPorter\BingImageSearch\BingSearchLib\bin\Debug\Newtonsoft.Json.xml
+C:\development\DashPorter\BingImageSearch\BingSearchLib\obj\Debug\BingSearchLib.csprojResolveAssemblyReference.cache
+C:\development\DashPorter\BingImageSearch\BingSearchLib\obj\Debug\BingSearchLib.dll
+C:\development\DashPorter\BingImageSearch\BingSearchLib\obj\Debug\BingSearchLib.pdb
